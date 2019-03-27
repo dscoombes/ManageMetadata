@@ -1,0 +1,11 @@
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\bin\Debug\netcoreapp2.1\ManageMetadata.deps.json
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\bin\Debug\netcoreapp2.1\ManageMetadata.runtimeconfig.json
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\bin\Debug\netcoreapp2.1\ManageMetadata.runtimeconfig.dev.json
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\bin\Debug\netcoreapp2.1\ManageMetadata.dll
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\bin\Debug\netcoreapp2.1\ManageMetadata.pdb
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\obj\Debug\netcoreapp2.1\ManageMetadata.csprojAssemblyReference.cache
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\obj\Debug\netcoreapp2.1\ManageMetadata.csproj.CoreCompileInputs.cache
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\obj\Debug\netcoreapp2.1\ManageMetadata.AssemblyInfoInputs.cache
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\obj\Debug\netcoreapp2.1\ManageMetadata.AssemblyInfo.cs
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\obj\Debug\netcoreapp2.1\ManageMetadata.dll
+C:\Users\David Coombes\OneDrive - Agylia Group Ltd\Projects\M4042\05-Organize blobs with properties and metadata\Working docs\ManageMetadata\ManageMetadata\obj\Debug\netcoreapp2.1\ManageMetadata.pdb
